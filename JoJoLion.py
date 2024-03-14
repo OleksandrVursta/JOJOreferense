@@ -1,3 +1,10 @@
+def info(Name, Age, Stand, Parts):
+    a = str(input("Введіть ім'я персонажа"))
+    if a == "Dio" or "dio":
+        print(f"Name: {Name}\nAge: {Age}\nStand: {Stand}\nParts: {Parts}")
+    elif a == "Kars" or "kars":
+        print(f"Name: {Name}\nAge: {Age}\nStand: {Stand}\nParts: {Parts}")
+
 class DIO:
     Name = "Dio Burandō"
     Age = "123"
@@ -10,18 +17,13 @@ class KARS:
     Stand = "None"
     Parts = "Part 2"
 
-    def info(self):
-        a = str(input("Введіть ім'я персонажа"))
-        if a == "Dio" or "dio":
-            print(f"Name: {self.Name}\nAge: {self.Age}\nStand: {self.Stand}\nParts: {self.Parts}")
-        elif a == "Kars" or "kars":
-            print(f"Name: {KARS.Name}\nAge: {KARS.Age}\nStand: {KARS.Stand}\nParts: {KARS.Parts}")
+
 
 
 dios = DIO()
-dios.info()
+info(dios.Name, dios.Age, dios.Stand, dios.Parts)
 
 karsus = KARS()
-karsus.info()
+info(karsus.Name, karsus.Age, karsus.Stand, karsus.Parts)
 
 
