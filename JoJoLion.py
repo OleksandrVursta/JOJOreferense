@@ -1,6 +1,5 @@
 dioskils = {
-    1:
-        beg"1 - Block",
+    1: "1 - Block",
     2: "2 - Donut",
     3: "3 - Knives",
     4: "4 - Time Stop",
