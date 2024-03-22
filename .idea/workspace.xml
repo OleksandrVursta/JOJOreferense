@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67e41bb8-8ffb-4833-baa3-b195c305c0f1" name="Changes" comment="fix ALL problems. Start create a game">
+    <list default="true" id="67e41bb8-8ffb-4833-baa3-b195c305c0f1" name="Changes" comment="compleated all dictionary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JoJoLion.py" beforeDir="false" afterPath="$PROJECT_DIR$/JoJoLion.py" afterDir="false" />
     </list>
@@ -73,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710501544387</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="compleated all dictionary">
+      <option name="closed" value="true" />
+      <created>1711019916070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711019916070</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +98,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix problems" />
     <MESSAGE value="fix ALL problems. Start create a game" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix ALL problems. Start create a game" />
+    <MESSAGE value="compleated all dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="compleated all dictionary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
